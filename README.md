@@ -45,7 +45,7 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-Run the notebooks in the correct order.
+Run the notebook.
 
 ## Copyright & License
 
