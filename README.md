@@ -39,8 +39,6 @@ datasets
 │...
 ```
 
-![Datasets Directory Example](datasets_dir.jpg)
-
 ``` bash
 pip3 install -r requirements.txt
 ```
